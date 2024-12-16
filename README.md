@@ -12,3 +12,5 @@
 <img src="https://github.com/Edersilveira/easy_shopping/blob/main/assets/desktop.png?raw=true"/>
 
 <h2>Imagem Smartphone</h2>
+
+<img src="https://github.com/Edersilveira/easy_shopping/blob/main/assets/mobile.png?raw=true"/>
